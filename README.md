@@ -4,7 +4,7 @@ Welcome to the JavaScript Arrays lab, in this lab you will practice how to creat
 
 # Activity One:
 
-## Objective: You will use arrays to plan the crops to be planted on the farm for each season and apply array methods to manage the crop data.
+Objective: You will use arrays to plan the crops to be planted on the farm for each season and apply array methods to manage the crop data.
 
 ## Activity Description:
 
@@ -27,7 +27,7 @@ Use console.log() to display each season's crop plan.
 
 # Activity Two:
 
-## Objective: You will simulate the harvesting of crops using 'for' loops.
+Objective: You will simulate the harvesting of crops using 'for' loops.
 
 ## Activity Description:
 
