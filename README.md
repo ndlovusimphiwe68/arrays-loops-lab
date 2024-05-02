@@ -1,6 +1,6 @@
 # arrays-lab
 
-# Welcome to the JavaScript Arrays lab, in this lab you will practice how to create arrays and how to add and delete elements within the array.
+Welcome to the JavaScript Arrays lab, in this lab you will practice how to create arrays and how to add and delete elements within the array.
 
 # Activity One:
 
