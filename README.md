@@ -2,7 +2,7 @@
 
 Welcome to the JavaScript Arrays lab, in this lab you will practice how to create arrays and how to add and delete elements within the array.
 
-Instructions:
+
 Objective: You will use arrays to plan the crops to be planted on the farm for each season and apply array methods to manage the crop data.
 
 Activity Description:
